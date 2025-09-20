@@ -59,7 +59,7 @@ https://wa.me/256789966218?text=Hi%20Lucky,%20I%20need%20support!
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363420656466131@newsletter',
+                    newsletterJid: '120363403433505770@newsletter',
                     newsletterName: '🪀『 LUCKY-XD 』🪀',
                     serverMessageId: 143
                 }

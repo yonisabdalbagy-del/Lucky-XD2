@@ -60,7 +60,7 @@ malvin({
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363420656466131@newsletter',
+            newsletterJid: '120363403433505770@newsletter',
             newsletterName: '『 LUCKY-XD 』',
             serverMessageId: 143
           }
@@ -79,7 +79,7 @@ malvin({
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363420656466131@newsletter',
+            newsletterJid: '120363403433505770@newsletter',
             newsletterName: '『 LUCKY-XD 』',
             serverMessageId: 143
           }
@@ -100,7 +100,7 @@ malvin({
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363420656466131@newsletter',
+            newsletterJid: '120363403433505770@newsletter',
             newsletterName: '『 LUCKY-XD 』',
             serverMessageId: 143
           }
@@ -174,7 +174,7 @@ malvin({
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363420656466131@newsletter',
+          newsletterJid: '120363403433505770@newsletter',
           newsletterName: '『 LUCKY-XD 』',
           serverMessageId: 143
         }

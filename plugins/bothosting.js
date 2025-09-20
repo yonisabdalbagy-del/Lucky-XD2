@@ -60,7 +60,7 @@ https://youtube.com/@luckytechhub-i9u
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363420656466131@newsletter',
+                    newsletterJid: '120363403433505770@newsletter',
                     newsletterName: '🪀『 ʟᴜᴄᴋʏ xᴅ 』🪀',
                     serverMessageId: 143
                 }
