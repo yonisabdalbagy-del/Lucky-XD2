@@ -1,9 +1,4 @@
-/*
-Project Name : MALVIN XD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https://github.com/XdKing2/MALVIN-XD
-Support      : wa.me/263714757857
-*/
+
 
 const config = require('../settings');
 const { malvin } = require('../malvin');
@@ -40,7 +35,7 @@ async (conn, mek, m, {
 📢 *Follow & Support LUCKY XD* ${readMore}
 
 🔔 *Official WhatsApp Channel*
-https://whatsapp.com/channel/0029VbAnuvT6RGJ9Qrf3NJ0L
+https://whatsapp.com/channel/0029VbAwFH4HrDZl2KTiDS0B
 
 🎬 *YouTube Channel*
 https://youtube.com/@luckytechhub-i9u
