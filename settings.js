@@ -19,7 +19,7 @@ module.exports = {
   PREFIX: getConfig("PREFIX") || "." || settings.PREFIX,
   CHATBOT: getConfig("CHATBOT") || "on",
   BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "ʟᴜᴄᴋʏ-xᴅ",
-  MODE: getConfig("MODE") || process.env.MODE || "public",
+  MODE: getConfig("MODE") || process.env.MODE || "private",
   REPO: process.env.REPO || "https://github.com/Tomilucky218/Lucky-XD2",
   BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys",
 
@@ -62,7 +62,7 @@ NEWSLETTER_JID: process.env.NEWSLETTER_JID || '120363420656466131@newsletter',
   ANTI_VV: process.env.ANTI_VV || "true",
   DELETE_LINKS: process.env.DELETE_LINKS || "false",
   ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "inbox",
-  ANTI_BOT: process.env.ANTI_BOT || "false",
+  ANTI_BOT: process.env.ANTI_BOT || "true",
   PM_BLOCKER: process.env.PM_BLOCKER || "true",
 
   // ===== BOT BEHAVIOR & APPEARANCE =====
